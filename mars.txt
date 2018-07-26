@@ -4,3 +4,5 @@ This is day two of Python Carpentry.  We are learning how to use Git today.  It 
 
 How do I tell the differences in git.
 Just pushed this file up to github.com
+
+Mars is salty
