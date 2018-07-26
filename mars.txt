@@ -1,3 +1,4 @@
+Today is July 26, 2018
 Cold and dry, but everything is my favorite color
 the two moons may be a prblem for Wolfman.
 This is day two of Python Carpentry.  We are learning how to use Git today.  It is July 26, 2018.
