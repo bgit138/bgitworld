@@ -3,3 +3,4 @@ the two moons may be a prblem for Wolfman.
 This is day two of Python Carpentry.  We are learning how to use Git today.  It is July 26, 2018.
 
 How do I tell the differences in git.
+Just pushed this file up to github.com
